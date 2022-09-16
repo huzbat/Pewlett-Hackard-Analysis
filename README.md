@@ -11,13 +11,13 @@ Summary: Provide high-level responses to the following questions, then provide t
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-###Overview of the analysis
+### Overview of the analysis
 * Explain the purpose of this analysis.:
  
     > Bobby was tasked with determining the number of employees retiring to identify which employees could be part of a mentorship program to bring value both ways. For the elderly employee to work part time and for  your youth employees to learn from veterans in the industry. Help Bobby prepare for this “silver tsunami” as many employees approach retirement age.
  
  
-###Results
+### Results
 
 * Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed:
  
@@ -33,7 +33,7 @@ Job titles of the eligible retirees, the breakdown is below.
 **Image Below**   ![name-of-you-image](https://github.com/emmanuelmartinezs/Pewlett-Hackard-Analysis/blob/main/Resources/Images/3.2.PNG?raw=true)
  
  
-###Summary
+### Summary
 * Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami.":
  
     > **1)** How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
