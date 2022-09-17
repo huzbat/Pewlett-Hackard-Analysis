@@ -30,7 +30,7 @@ Job titles of the eligible retirees, the breakdown is below.
     4,502 Technique Leader
     1,761 Assistant Engineer
    
-**Image Below**   ![name-of-you-image](https://github.com/emmanuelmartinezs/Pewlett-Hackard-Analysis/blob/main/Resources/Images/3.2.PNG?raw=true)
+**Image Below**   https://github.com/huzbat/Pewlett-Hackard-Analysis/blob/main/Resources/3.2.png?raw=true
  
  
 ### Summary
